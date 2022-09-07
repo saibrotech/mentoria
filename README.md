@@ -1,7 +1,8 @@
 # Mentoria SaibroTech
 
 * Servidor Discord
-* Projetos e gestão de atividades 
+* Projetos e gestão de atividades
+* LinkedIn
 
 ## Objetivo
 
@@ -51,3 +52,7 @@ Criar um espaço seguro para profissionais realizarem transição de carreira pa
     * Python
     * Node
 
+## Contato
+
+Para participar da Mentoria ou para parceria envie um e-mail para hi@saibro.tech.
+Siga a SaibroTech no LinkedIn para receber oportunidades de capacitação e vagas.
