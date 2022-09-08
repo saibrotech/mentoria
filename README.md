@@ -47,6 +47,7 @@ Criar um espaço seguro para profissionais realizarem transição de carreira pa
 * Node
 * Visual Code
   * Extensões:
+    * [Live share](https://code.visualstudio.com/learn/collaboration/live-share)
     * Git Graph
     * Docker
     * Python
