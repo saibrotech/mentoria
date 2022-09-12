@@ -1,12 +1,14 @@
 # Mentoria SaibroTech
 
-* Servidor Discord
-* Projetos e gestão de atividades
-* LinkedIn
-
 ## Objetivo
 
 Criar um espaço seguro para profissionais realizarem transição de carreira para TI.
+
+Para isso disponibilizamos:
+
+* Servidor Discord (privado)
+* [Gestão de atividades](https://github.com/orgs/saibrotech/projects/8)
+* [Posts no LinkedIn de cursos e outras oportunidades](https://www.linkedin.com/company/saibrotech/posts/)
 
 ## Membros
 
