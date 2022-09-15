@@ -32,30 +32,13 @@ Para isso disponibilizamos:
 * Ivan
 * Isabela
 
-## Proposta de trabalho
+## Documentação
 
-(Adicionar diagrama)
-
-## Requisitos
-
-* Computador com acesso à Internet.
-* Linux ou Windows 10 (preferencialmente professional)
-
-## Ferramentas de desenvolvimento 
-
-* Git
-* Docker e docker compose
-* Python
-* Node
-* Visual Code
-  * Extensões:
-    * [Live share](https://code.visualstudio.com/learn/collaboration/live-share)
-    * Git Graph
-    * Docker
-    * Python
-    * Node
+* [Metodologia de trabalho](metodologia.md)
+* [Requisitos e Ferramentas de trabalho](requisitos-ferramentas.md)
 
 ## Contato
 
 Para participar da Mentoria ou para parceria envie um e-mail para hi@saibro.tech.
-Siga a SaibroTech no LinkedIn para receber oportunidades de capacitação e vagas.
+
+Siga a SaibroTech no [LinkedIn](https://www.linkedin.com/company/saibrotech/) para receber oportunidades de capacitação e vagas.
