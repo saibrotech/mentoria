@@ -2,7 +2,11 @@
 
 ## Objetivo
 
-Criar um espaço seguro para profissionais realizarem transição de carreira para TI.
+Construir um ambiente onde as pessoas se sintam seguras para realizar uma transição de carreira para TI.
+
+Assim auxiliamos ao profissional conhecer as suas forças e fraquezas, a fazer escolhas estruturadas segundo as suas características individuais e a construir estratégias para aumentar as suas oportunidades de se efetivar na área de TI.
+
+Isso é feito através de práticas de auto gestão estratégica onde o profissional além de mentorado participa como desenvolvedor, ganhando assim uma experiência profissional.
 
 Para isso disponibilizamos:
 
@@ -14,8 +18,8 @@ Para isso disponibilizamos:
 
 ### Mentores
 
-* André Piantino
-* Nicole Buitoni (Ex-mentorada)
+* André Piantino - [LinkedIn](https://www.linkedin.com/in/andre-porto-leal-piantino/) e [Github](https://github.com/piantino)
+* [Nicole Buitoni (Ex-mentorada)](https://www.linkedin.com/in/nicole-buitoni/)
 
 ### Mentorados empregados
 
