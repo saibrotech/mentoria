@@ -11,10 +11,13 @@
 * [Docker](https://www.docker.com/products/docker-desktop/) e docker compose (incluído no Docker Desktop)
 * [Python](https://www.python.org/downloads/)
 * [Node](https://nodejs.org/en/download/)
+* [Flameshot](https://flameshot.org/) (Linux), [Greenshot](https://getgreenshot.org/) (Windows)
 * [Visual Code](https://code.visualstudio.com/download)
   * Extensões:
     * [Live share](https://code.visualstudio.com/learn/collaboration/live-share)
     * [Git Graph](https://www.youtube.com/watch?v=qB7et7fHzMg)
+    * [GitLens](https://www.youtube.com/watch?v=UQPb73Zz9qk)
+    * ESLint
     * Docker
     * Python
     * Node
