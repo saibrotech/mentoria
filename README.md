@@ -29,6 +29,8 @@ Para isso disponibilizamos:
 * Gustavo Valente
   * Mentorado de 04/2021 à 07/2022
   * Transição de Design para Front-end
+* Frederico Minuzzi
+  * Graduado em ciência da computação
 
 ### Mentorados em transição
 
