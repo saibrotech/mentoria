@@ -42,8 +42,10 @@ Para isso disponibilizamos:
   * Mentorada de 07/2022 - atual
   * Transição de Arquitetura e Urbanismo para Data-Science
 * Ivan
-* Isabela
-
+* Isabela S. Hyeda Buitoni - [LinkedIn](https://www.linkedin.com/in/isabela-schurhaus-hyeda-buitoni/) e [Github](https://github.com/isabelahyeda)
+  * Mentorada de 08/2022 - atual
+  * Transição de Enfermeira para Front-end
+  
 ## Documentação
 
 * [Metodologia de trabalho](metodologia.md)
