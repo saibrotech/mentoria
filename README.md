@@ -18,19 +18,22 @@ Para isso disponibilizamos:
 
 ### Mentores
 
-* André Piantino - [LinkedIn](https://www.linkedin.com/in/andre-porto-leal-piantino/) e [Github](https://github.com/piantino)
-* [Nicole Buitoni (Ex-mentorada)](https://www.linkedin.com/in/nicole-buitoni/)
+* André Piantino (Líder Técnico) - [LinkedIn](https://www.linkedin.com/in/andre-porto-leal-piantino/) e [Github](https://github.com/piantino)
+* Nicole Buitoni (Ex-mentorada) - [LinkedIn](https://www.linkedin.com/in/nicole-buitoni/) e Github
+
+### Mentores em formação
+
+* Gustavo Valente (Ex-mentorado) - LinkedIn e Github
+* Frederico Minuzzi (Graduado em ciência da computação) - LinkedIn e Github
 
 ### Mentorados empregados
 
 * Nicole Buitoni
   * Metorada de xx/19 à xx/20
-  * Transição de administração para Back-end
+  * Transição de Administração para Back-end
 * Gustavo Valente
   * Mentorado de 04/2021 à 07/2022
   * Transição de Design para Front-end
-* Frederico Minuzzi
-  * Graduado em ciência da computação
 
 ### Mentorados em transição
 
