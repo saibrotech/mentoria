@@ -20,6 +20,7 @@ Para isso disponibilizamos:
 
 * André Piantino (Líder Técnico) - [LinkedIn](https://www.linkedin.com/in/andre-porto-leal-piantino/) e [Github](https://github.com/piantino)
 * Nicole Buitoni (Ex-mentorada) - [LinkedIn](https://www.linkedin.com/in/nicole-buitoni/) e Github
+* Frederico Minuzzi - [LinkedIn](https://www.linkedin.com/in/frederico-minuzzi-20200416a/) e [Github](https://github.com/Freddyminu)
 
 ### Mentores em formação
 
