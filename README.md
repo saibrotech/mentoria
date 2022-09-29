@@ -33,6 +33,8 @@ Para isso disponibilizamos:
 ### Mentorados em transição
 
 * Marianne
+  * Mentorada de 07/2022 - atual
+  * Transição de Arquitetura e Urbanismo para Data-Science
 * Ivan
 * Isabela
 
