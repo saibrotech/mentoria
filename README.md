@@ -45,6 +45,10 @@ Para isso disponibilizamos:
 * Isabela S. Hyeda Buitoni - [LinkedIn](https://www.linkedin.com/in/isabela-schurhaus-hyeda-buitoni/) e [Github](https://github.com/isabelahyeda)
   * Mentorada de 08/2022 - atual
   * Transição de Enfermeira para Front-end
+* André Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni/) e [GitHub](https://github.com/AndreBuitoni)
+  * Mentorado de 09/2022 - atual
+  * Transição de Biólogo para Fullstack
+ 
   
 ## Documentação
 
