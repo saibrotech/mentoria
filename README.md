@@ -19,7 +19,7 @@ Para isso disponibilizamos:
 ### Mentores
 
 * André Piantino (Líder Técnico) - [LinkedIn](https://www.linkedin.com/in/andre-porto-leal-piantino/) e [Github](https://github.com/piantino)
-* Nicole Buitoni (Ex-mentorada) - [LinkedIn](https://www.linkedin.com/in/nicole-buitoni/) e Github
+* Nicole Buitoni (Ex-mentorada) - [LinkedIn](https://www.linkedin.com/in/nicole-buitoni/) e [Github](https://github.com/Nibuitoni)
 * Frederico Minuzzi (Graduado em ciência da computação) - [LinkedIn](https://www.linkedin.com/in/frederico-minuzzi-20200416a/) e [Github](https://github.com/Freddyminu)
 
 ### Mentores em formação
@@ -30,7 +30,7 @@ Para isso disponibilizamos:
 ### Mentorados empregados
 
 * Nicole Buitoni
-  * Metorada de xx/19 à xx/20
+  * Metorada de 04/20 à 12/20
   * Transição de Administração para Back-end
 * Gustavo Valente
   * Mentorado de 04/2021 à 07/2022
