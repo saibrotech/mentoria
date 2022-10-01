@@ -30,7 +30,7 @@ Para isso disponibilizamos:
 ### Mentorados empregados
 
 * Nicole Buitoni
-  * Metorada de 04/20 à 12/20
+  * Mentorada de 04/20 à 12/20
   * Transição de Administração para Back-end
 * Gustavo Valente
   * Mentorado de 04/2021 à 07/2022
@@ -47,7 +47,13 @@ Para isso disponibilizamos:
 * Isabela S. Hyeda Buitoni - [LinkedIn](https://www.linkedin.com/in/isabela-schurhaus-hyeda-buitoni/) e [Github](https://github.com/isabelahyeda)
   * Mentorada de 08/2022 - atual
   * Transição de Enfermeira para Front-end
-  
+* Paula Buitoni - LinkedIn e Github
+  * Mentorada de 09/2022 - atual
+  * Transição de Contabilidade para Front-end
+* Andre Buitoni - LinkedIn e Github
+  * Mentorada de 09/2022 - atual
+  * Transição de Biologia para Front-end
+
 ## Documentação
 
 * [Metodologia de trabalho](metodologia.md)
