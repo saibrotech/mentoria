@@ -18,5 +18,5 @@
     * [Git Graph](https://www.youtube.com/watch?v=qB7et7fHzMg)
     * [GitLens](https://www.youtube.com/watch?v=UQPb73Zz9qk)
     * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-    * Docker
-    * Python
+    * [Docker](https://code.visualstudio.com/docs/containers/overview)
+    * [Python](https://code.visualstudio.com/docs/languages/python)
