@@ -46,7 +46,7 @@ Para isso disponibilizamos:
 * Isabela S. Hyeda Buitoni - [LinkedIn](https://www.linkedin.com/in/isabela-schurhaus-hyeda-buitoni/) e [Github](https://github.com/isabelahyeda)
   * Mentorada de 08/2022 - atual
   * Transição de Enfermeira para Front-end
-* Paula Buitoni - LinkedIn e Github
+* Paula Buitoni - [LinkedIn](https://www.linkedin.com/in/paula-buitoni/) e [Github](https://github.com/paulabuitoni)
   * Mentorada de 09/2022 - atual
   * Transição de Contabilidade para Front-end
 * Andre Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni) e [Github](https://github.com/andrebuitoni)
