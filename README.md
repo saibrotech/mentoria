@@ -23,7 +23,7 @@ Para isso disponibilizamos:
 
 ### Mentores em formação
 
-* Gustavo Valente (Ex-mentorado) - LinkedIn e Github
+* Gustavo Valente (Ex-mentorado) - [LinkedIn](https://www.linkedin.com/in/gutivalente/) e [Github](https://github.com/gutivalente)
 * Frederico Minuzzi (Graduado em ciência da computação) - [LinkedIn](https://www.linkedin.com/in/frederico-minuzzi-20200416a/) e [Github](https://github.com/Freddyminu)
 
 ### Mentorados empregados
