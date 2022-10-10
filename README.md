@@ -49,8 +49,8 @@ Para isso disponibilizamos:
 * Paula Buitoni - LinkedIn e Github
   * Mentorada de 09/2022 - atual
   * Transição de Contabilidade para Front-end
-* Andre Buitoni - LinkedIn e Github
-  * Mentorada de 09/2022 - atual
+* Andre Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni) e [Github](https://github.com/andrebuitoni)
+  * Mentorado de 09/2022 - atual
   * Transição de Biologia para Front-end
 
 ## Documentação
