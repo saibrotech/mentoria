@@ -13,7 +13,7 @@ Para isso disponibilizamos:
 * Servidor Discord para reuniões e troca de mensagens (privado)
 * [Gestão de atividades](https://github.com/orgs/saibrotech/projects/8)
 * [Posts no LinkedIn de cursos e outras oportunidades](https://www.linkedin.com/company/saibrotech/posts/)
-* [Canal do Youtube com aalestras sobre os tópicos estudados](https://www.youtube.com/@saibrotech)
+* [Canal do Youtube com palestras sobre os tópicos estudados](https://www.youtube.com/@saibrotech)
 
 ## Membros
 
