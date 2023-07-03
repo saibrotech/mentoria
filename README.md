@@ -30,29 +30,27 @@ Para isso disponibilizamos:
 ### Mentorados empregados
 
 * Nicole Buitoni
-  * Mentorada de 04/20 à 12/20
+  * Mentorada de 04/2020 à 12/2020
   * Transição de Administração para Back-end
 * Gustavo Valente
   * Mentorado de 04/2021 à 07/2022
   * Transição de Design para Front-end
+* Marianne Costa Avalone - [LinkedIn](https://www.linkedin.com/in/mariannecosta/) e [Github](https://github.com/nanipumpkin)
+  * Mentorada de 07/2022 - 03/2023
+  * Transição de Arquitetura e Urbanismo para Data-Science
+* Ivan Carlos Duarte Junior - [LinkedIn](https://www.linkedin.com/in/ivan-carlos-duarte-junior/) e [Github](https://github.com/IvanCarlosJr)
+  * Mentorado de 08/2022 - 04/2023
+  * Transição de Edificações para Front-end 
 
 ### Mentorados em transição
 
-* Marianne Costa Avalone - [LinkedIn](https://www.linkedin.com/in/mariannecosta/) e [Github](https://github.com/nanipumpkin)
-  * Mentorada de 07/2022 - atual
-  * Transição de Arquitetura e Urbanismo para Data-Science
-* Ivan Carlos Duarte Junior - [LinkedIn](https://www.linkedin.com/in/ivan-carlos-duarte-junior/) e [Github](https://github.com/IvanCarlosJr)
-  * Mentorado de 08/2022 - atual
-  * Transição de Edificações para Front-end 
-* Isabela S. Hyeda Buitoni - [LinkedIn](https://www.linkedin.com/in/isabela-schurhaus-hyeda-buitoni/) e [Github](https://github.com/isabelahyeda)
-  * Mentorada de 08/2022 - atual
-  * Transição de Enfermeira para Front-end
 * Paula Buitoni - [LinkedIn](https://www.linkedin.com/in/paula-buitoni-4ab4b172/) e [Github](https://github.com/paulabuitoni)
   * Mentorada de 09/2022 - atual
   * Transição de Contabilidade para Front-end
 * Andre Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni) e [Github](https://github.com/andrebuitoni)
   * Mentorado de 09/2022 - atual
   * Transição de Biologia para Front-end
+* Júnior (Adiicionar)
 
 ## Documentação
 
@@ -60,7 +58,5 @@ Para isso disponibilizamos:
 * [Requisitos e Ferramentas de trabalho](requisitos-ferramentas.md)
 
 ## Contato
-
-Para participar da Mentoria ou para parceria envie um e-mail para hi@saibro.tech.
 
 Siga a SaibroTech no [LinkedIn](https://www.linkedin.com/company/saibrotech/) para receber oportunidades de capacitação e vagas.
