@@ -29,10 +29,10 @@ Para isso disponibilizamos:
 
 ### Mentorados empregados
 
-* Nicole Buitoni
+* Nicole Buitoni - [LinkedIn](https://www.linkedin.com/in/nicole-buitoni/) e [Github](https://github.com/Nibuitoni)
   * Mentorada de 04/2020 à 12/2020
   * Transição de Administração para Back-end
-* Gustavo Valente
+* Gustavo Valente - [LinkedIn](https://www.linkedin.com/in/gutivalente/) e [Github](https://github.com/gutivalente)
   * Mentorado de 04/2021 à 07/2022
   * Transição de Design para Front-end
 * Marianne Costa Avalone - [LinkedIn](https://www.linkedin.com/in/mariannecosta/) e [Github](https://github.com/nanipumpkin)
