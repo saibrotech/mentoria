@@ -50,7 +50,7 @@ Para isso disponibilizamos:
 * Andre Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni) e [Github](https://github.com/andrebuitoni)
   * Mentorado de 09/2022 - atual
   * Transição de Biologia para Front-end
-* Nill Junior [LinkedIn](https://www.linkedin.com/in/nill-junior) e [Github](https://github.com/nilljr)
+* Nill Junior - [LinkedIn](https://www.linkedin.com/in/nill-junior) e [Github](https://github.com/nilljr)
   * Mentorado de 07/2023 - atual
   * Transição de Engenharia Elétrica para Front-end
 ## Documentação
