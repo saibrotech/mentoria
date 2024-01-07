@@ -20,12 +20,6 @@ Para isso disponibilizamos:
 ### Mentores
 
 * André Piantino (Líder Técnico) - [LinkedIn](https://www.linkedin.com/in/andre-porto-leal-piantino/) e [Github](https://github.com/piantino)
-* Nicole Buitoni (Ex-mentorada) - [LinkedIn](https://www.linkedin.com/in/nicole-buitoni/) e [Github](https://github.com/Nibuitoni)
-
-### Mentores em formação
-
-* Gustavo Valente (Ex-mentorado) - [LinkedIn](https://www.linkedin.com/in/gutivalente/) e [Github](https://github.com/gutivalente)
-* Frederico Minuzzi (Graduado em ciência da computação) - [LinkedIn](https://www.linkedin.com/in/frederico-minuzzi-20200416a/) e [Github](https://github.com/Freddyminu)
 
 ### Mentorados empregados
 
