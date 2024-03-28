@@ -1,4 +1,4 @@
-# Mentoria SaibroTech
+# Mentoria SaibroTech (Encerrado)
 
 ## Objetivo
 
@@ -39,13 +39,13 @@ Para isso disponibilizamos:
 ### Mentorados em transição
 
 * Paula Buitoni - [LinkedIn](https://www.linkedin.com/in/paula-buitoni-4ab4b172/) e [Github](https://github.com/paulabuitoni)
-  * Mentorada de 09/2022 - atual
+  * Mentorada de 09/2022 - 03/2023 (Encerramento da Saibrotech)
   * Transição de Contabilidade para Front-end
 * Andre Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni) e [Github](https://github.com/andrebuitoni)
-  * Mentorado de 09/2022 - atual
+  * Mentorado de 09/2022- 03/2023 (Encerramento da Saibrotech)
   * Transição de Biologia para Front-end
 * Nill Junior - [LinkedIn](https://www.linkedin.com/in/nill-junior) e [Github](https://github.com/nilljr)
-  * Mentorado de 07/2023 - atual
+  * Mentorado de 07/2023- 03/2023 (Encerramento da Saibrotech)
   * Transição de Engenharia Elétrica para Front-end
 ## Documentação
 
