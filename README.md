@@ -1,4 +1,4 @@
-# Mentoria SaibroTech (Encerrado)
+# Mentoria SaibroTech (2026 - Fundamentos de Engenharia de Dados e Machine Learning)
 
 ## Objetivo
 
@@ -41,7 +41,9 @@ Para isso disponibilizamos:
 
 ### Mentorados em transição
 
-...
+* Leandro
+* Edineia
+* Vinicius
 
 ## Documentação
 
