@@ -10,7 +10,7 @@ Isso é feito através de práticas de auto gestão estratégica onde o profissi
 
 Para isso disponibilizamos:
 
-* Servidor Discord para reuniões e troca de mensagens (privado)
+* Servidor troca de mensagens (Comunidade Whatapp Privada)
 * [Gestão de atividades](https://github.com/orgs/saibrotech/projects/8)
 * [Posts no LinkedIn de cursos e outras oportunidades](https://www.linkedin.com/company/saibrotech/posts/)
 * [Canal do Youtube com palestras sobre os tópicos estudados](https://www.youtube.com/@saibrotech)
@@ -34,24 +34,20 @@ Para isso disponibilizamos:
   * Transição de Arquitetura e Urbanismo para Data-Science
 * Ivan Carlos Duarte Junior - [LinkedIn](https://www.linkedin.com/in/ivan-carlos-duarte-junior/) e [Github](https://github.com/IvanCarlosJr)
   * Mentorado de 08/2022 - 04/2023
-  * Transição de Edificações para Front-end 
+  * Transição de Edificações para Front-end
+* Nill Junior - [LinkedIn](https://www.linkedin.com/in/nill-junior) e [Github](https://github.com/nilljr)
+  * Mentorado de 07/2023- 03/2023
+  * Transição de Engenharia Elétrica para Desenvolvedor Full-Stack
 
 ### Mentorados em transição
 
-* Paula Buitoni - [LinkedIn](https://www.linkedin.com/in/paula-buitoni-4ab4b172/) e [Github](https://github.com/paulabuitoni)
-  * Mentorada de 09/2022 - 03/2023 (Encerramento da Saibrotech)
-  * Transição de Contabilidade para Front-end
-* Andre Buitoni - [LinkedIn](https://www.linkedin.com/in/andre-buitoni) e [Github](https://github.com/andrebuitoni)
-  * Mentorado de 09/2022- 03/2023 (Encerramento da Saibrotech)
-  * Transição de Biologia para Front-end
-* Nill Junior - [LinkedIn](https://www.linkedin.com/in/nill-junior) e [Github](https://github.com/nilljr)
-  * Mentorado de 07/2023- 03/2023 (Encerramento da Saibrotech)
-  * Transição de Engenharia Elétrica para Front-end
+...
+
 ## Documentação
 
 * [Metodologia de trabalho](metodologia.md)
 * [Requisitos e Ferramentas de trabalho](requisitos-ferramentas.md)
 
-## Contato
+## Rede social
 
-Siga a SaibroTech no [LinkedIn](https://www.linkedin.com/company/saibrotech/) para receber oportunidades de capacitação e vagas.
+Siga a SaibroTech no [LinkedIn](https://www.linkedin.com/company/saibrotech/).
